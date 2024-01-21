@@ -34,6 +34,7 @@ ALLOWED_HOSTS = ["localhost",
                  "production.eba-mpwm7knr.us-east-1.elasticbeanstalk.com", 
                  "staging.eba-mpwm7knr.us-east-1.elasticbeanstalk.com",
                  "personalwebsite-1277601517.us-east-1.elb.amazonaws.com",
+                 "awseb--awseb-pux1iu4kuqdv-922816999.us-east-1.elb.amazonaws.com/",
                  "dualstack.awseb--awseb-pux1iu4kuqdv-922816999.us-east-1.elb.amazonaws.com.",
                  "matthewjkim.me"]
 
