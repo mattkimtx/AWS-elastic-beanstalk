@@ -31,7 +31,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["127.0.0.1", 
                  "production.eba-mpwm7knr.us-east-1.elasticbeanstalk.com", 
-                 "staging.eba-mpwm7knr.us-east-1.elasticbeanstalk.com"]
+                 "staging.eba-mpwm7knr.us-east-1.elasticbeanstalk.com",
+                 "personalwebsite-1277601517.us-east-1.elb.amazonaws.com",
+                 "matthewjkim.me"]
 
 
 # Application definition
