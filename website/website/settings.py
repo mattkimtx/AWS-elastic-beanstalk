@@ -29,8 +29,7 @@ SECRET_KEY = os.environ.get("DSECRETKEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["localhost", 
-                 "127.0.0.1", 
+ALLOWED_HOSTS = ["127.0.0.1", 
                  "production.eba-mpwm7knr.us-east-1.elasticbeanstalk.com", 
                  "staging.eba-mpwm7knr.us-east-1.elasticbeanstalk.com"]
 
