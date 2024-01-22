@@ -36,7 +36,8 @@ ALLOWED_HOSTS = ["localhost",
                  "personalwebsite-1277601517.us-east-1.elb.amazonaws.com",
                  "awseb--awseb-pux1iu4kuqdv-922816999.us-east-1.elb.amazonaws.com/",
                  "dualstack.awseb--awseb-pux1iu4kuqdv-922816999.us-east-1.elb.amazonaws.com.",
-                 "matthewjkim.me"]
+                 "matthewjkim.me",
+                 "www.matthewjkim.me"]
 
 
 # Application definition
